@@ -12,8 +12,18 @@ Here's the finished product. There's more in our pdf (link)!
 
 ![Finished Sundial](https://i.imgur.com/uYcVIGa.jpg)
 
-Yeah, I get it, the times do not match! I actually made a mistake in signs in the original code. The Dial is actually off by 17m11sec. Forgive!
+Yeah, I get it, the times do not match! I actually made a mistake in signs in the original code. The Dial is actually off by 17m11sec as calculated. Forgive!
 
 ## Begin
 
-You can find all the theory that's required 
+You can find all the theory that's required from this [book](https://www.amazon.com/Sundials-Theory-Construction-Albert-Waugh/dp/0486229475) (that's what I used):
+
+<table> 
+    <tr>
+        <td>
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51kt5nWqYhL._SX313_BO1,204,203,200_.jpg" alt="alt text" width="170">
+        </td>
+    </tr> 
+</table>
+
+It'll tell you more on the _Analemma_, the Medians, the Equation of Time and all you need to know to come up with and operate my code 😉
