@@ -11,3 +11,9 @@ Here's the finished product. There's more in our pdf (link)!
 
 
 ![Finished Sundial](https://i.imgur.com/uYcVIGa.jpg)
+
+Yeah, I get it, the times do not match! I actually made a mistake in signs in the original code. The Dial is actually off by 17m11sec. Forgive!
+
+## Begin
+
+You can find all the theory that's required 
