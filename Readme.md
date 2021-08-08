@@ -8,3 +8,6 @@ Keep in mind these facts:
 3. Your Sundial can also indicate the _day of the year_ (heck!). For that we need to include curves called _Analemma_.
 
 Here's the finished product. There's more in our pdf (link)!
+
+
+![Finished Sundial](https://i.imgur.com/uYcVIGa.jpg)
