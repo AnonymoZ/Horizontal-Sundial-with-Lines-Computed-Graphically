@@ -26,4 +26,4 @@ You can find all the theory that's required from this [book](https://www.amazon.
     </tr> 
 </table>
 
-It'll tell you more on the _Analemma_, the Medians, the Equation of Time and all you need to know to come up with and operate my code 😉
+It'll tell you more on the _Analemma_, the Meridians, the Equation of Time and all you need to know to come up with and operate my code 😉
