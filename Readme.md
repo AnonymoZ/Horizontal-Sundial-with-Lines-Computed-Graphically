@@ -27,3 +27,8 @@ You can find all the theory that's required from this [book](https://www.amazon.
 </table>
 
 It'll tell you more on the _Analemma_, the Equation of Time, how to build your Gnomon and all you need to know to come up with and operate my code 😉
+
+## Actually read the book!
+
+At the complete end of the project, you're looking to produce a diagram like this:
+![](https://i.imgur.com/VA16Rpk.jpeg)
