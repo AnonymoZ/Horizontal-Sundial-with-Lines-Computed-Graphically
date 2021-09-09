@@ -31,4 +31,14 @@ It'll tell you more on the _Analemma_, the Equation of Time, how to build your G
 ## Actually read the book!
 
 At the complete end of the project, you're looking to produce a diagram like this:
-![](https://i.imgur.com/VA16Rpk.jpeg)
+
+![](https://i.imgur.com/UNu43jX.jpeg)
+
+(You'll have to actually split the sheet into 2 if your Gnomon is thick, along the faint black vertical line if you can see, but that's explained in the book!)
+
+I will assume you have read the book, but concepts you should have known I write them with Caps so you can still follow.
+
+Disclaimer: The code itself will not give you this image! Each script of code will give you _a piece_ of the image as a graphic (.svg). But you'll have to assemble all manually in Adobe Illustrator🤮, [Affinity Designer](https://affinity.serif.com/en-us/designer/)😁 or [Inkscape](https://inkscape.org/release/inkscape-1.1/)😏.
+And add a rectangle to know how to place Gnomon, a faint black vertical line so you can split page!
+
+It is far better this way, compared to generating everything in one click. Because! We need different angles for different countries. And even so, the distance to the Analemma will depend on how you have cut your Gnomon
