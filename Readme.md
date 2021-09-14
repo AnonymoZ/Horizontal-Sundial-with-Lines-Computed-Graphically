@@ -38,7 +38,26 @@ At the complete end of the project, you're looking to produce a diagram like thi
 
 I will assume you have read the book, but concepts you should have known I write them with Caps so you can still follow.
 
-Disclaimer: The code itself will not give you this image! Each script of code will give you _a piece_ of the image as a graphic (.svg). But you'll have to assemble all manually in Adobe Illustrator🤮, [Affinity Designer](https://affinity.serif.com/en-us/designer/)😁 or [Inkscape](https://inkscape.org/release/inkscape-1.1/)😏.
-And add a rectangle to know how to place Gnomon, a faint black vertical line so you can split page!
+Disclaimer:<br> 
+The code itself will not give you this image! Each script of code will give you _a piece_ of the image as a graphic (.svg). But you'll have to assemble all manually in Adobe Illustrator🤮, [Affinity Designer](https://affinity.serif.com/en-us/designer/)😁 or [Inkscape](https://inkscape.org/release/inkscape-1.1/)😏.
+A next section shows you how.
 
-It is far better this way, compared to generating everything in one click. Because! We need different angles for different countries. And even so, the distance to the Analemma will depend on how you have cut your Gnomon
+And add a rectangle to know how to place Gnomon, and a faint black vertical line so you can split page!
+
+
+## Which Script Does What
+
+The exact reasoning behind the codes is in the pdf, but I gave you 3 scripts:
+* plot - DialFace.py<br>
+ Yala
+* plot - LongitudinalCorrection.py<br>
+ Yala
+* plot - Analemma.py<br>
+ Yala
+ 
+## How to Assemble in Affinity Designer
+
+Follow book instructions for your ware, but I use [Affinity Designer](https://affinity.serif.com/en-us/designer/).
+
+## What to Change in the Scripts for _Your_ Project
+
