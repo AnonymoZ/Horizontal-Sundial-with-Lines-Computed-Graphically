@@ -57,6 +57,7 @@ The exact reasoning behind the codes is in the pdf, but I gave you 3 scripts:
  One discrepancy your *Longitude* causes it. The Book tells you why, but the discrepancy is constant. Every day of every year at every hour it is the same. The discrepancy says, "instead of reading the time 17:46, read it 10 minutes earlier". Read 17:36, that is.<br> Easy, just use hour-line colours on lines that are 10 minutes before:<br><br>
  The other discrepancy I'm afraid is uncorrectable by layman means. It is due to the *Equation of Time*. I have imagined that rotatable system would need be built with the hour lines made of magnetisable iron thin bars, made to attract or repel each other by a programmable electro-magnet. A system far beyond my intellectual means.<br>
  Let it be a purely intellectual pursuit, for truth be told, the amount of technology put into this correction, we're far better off using a good old digital watch!<br><br>
+ Please note! You will use **plotLongitudinalCorrection.py** *instead* of **plotDial.py**. Because both give the same result, except that in one the lines are coloured differently.<br><br>
 * **plotAnalemma.py**<br>
  Yala
  
