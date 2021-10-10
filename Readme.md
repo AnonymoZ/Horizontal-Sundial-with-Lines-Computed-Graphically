@@ -50,8 +50,13 @@ And add a rectangle to know how to place Gnomon, and a faint black vertical line
 The exact reasoning behind the codes is in the pdf, but I gave you 3 scripts:
 * **plotDial.py**<br>
  Yala
-* **plotLongitudinalCorrection.py**<br>
- A Sundial never gives the same time as your watch.  
+* **plotLongitudinalCorrection.py**<br><br>
+ A Sundial never gives the same time as your watch.<br><br>
+ The time is off because of 2 reasons.<br><br>
+ Different people will correct these _discrepancies_ differently. (I'm not saying, "..will correct these _errors_ differently." According to some people, the Sundial Time is the ultimate form of time and Clock Times are futility, but let us please keep all debates aside!)<br><br>
+ One discrepancy your *Longitude* causes it. The Book tells you why, but the discrepancy is constant. Every day of every year at every hour it is the same. The discrepancy says, "instead of reading the time 17:46, read it 10 minutes earlier". Read 17:36, that is.<br> Easy, just use hour-line colours on lines that are 10 minutes before:<br><br>
+ The other discrepancy I'm afraid is uncorrectable by layman means. It is due to the *Equation of Time*. I have imagined that rotatable system would need be built with the hour lines made of magnetisable iron thin bars, made to attract or repel each other by a programmable electro-magnet. A system far beyond my intellectual means.<br>
+ Let it be a purely intellectual pursuit, for truth be told, the amount of technology put into this correction, we're far better off using a good old digital watch!<br><br>
 * **plotAnalemma.py**<br>
  Yala
  
