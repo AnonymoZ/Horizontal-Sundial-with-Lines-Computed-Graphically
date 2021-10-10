@@ -48,11 +48,11 @@ And add a rectangle to know how to place Gnomon, and a faint black vertical line
 ## Which Script Does What
 
 The exact reasoning behind the codes is in the pdf, but I gave you 3 scripts:
-* plotDial.py<br>
+* **plotDial.py**<br>
  Yala
-* plotLongitudinalCorrection.py<br>
+* **plotLongitudinalCorrection.py**<br>
  A Sundial never gives the same time as your watch.  
-* plotAnalemma.py<br>
+* **plotAnalemma.py**<br>
  Yala
  
 ## How to Assemble in Affinity Designer
