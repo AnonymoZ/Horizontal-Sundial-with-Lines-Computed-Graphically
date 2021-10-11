@@ -48,8 +48,11 @@ And add a rectangle to know how to place Gnomon, and a faint black vertical line
 ## Which Script Does What
 
 The exact reasoning behind the codes is in the pdf, but I gave you 3 scripts:
-* **plotDial.py**<br>
- Yala
+* **plotDial.py**<br><br>
+ This is straightforward. The script gives you the face of a Sundial. <br>
+ Red lines denote *Hours*, Blue lines denote *Half-Hours* and Yellow lines *Quarter-Hours*.<br>
+ The fainter Grey lines are the minute lines.<br><br>
+ The angles in the Dial have been calculated using the *Latitude* of your country.<br><br>
 * **plotLongitudinalCorrection.py**<br><br>
  A Sundial never gives the same time as your watch.<br><br>
  The time is off because of 2 reasons.<br><br>
@@ -60,8 +63,8 @@ The exact reasoning behind the codes is in the pdf, but I gave you 3 scripts:
  The other discrepancy I'm afraid is uncorrectable by layman means. It is due to the *Equation of Time*. I have imagined that rotatable system would need be built with the hour lines made of magnetisable iron thin bars, made to attract or repel each other by a programmable electro-magnet. A system far beyond my intellectual means.<br>
  Let it be a purely intellectual pursuit, for truth be told, the amount of technology put into this correction, we're far better off using a good old digital watch!<br><br>
  Please note! You will use **plotLongitudinalCorrection.py** *instead* of **plotDial.py**. Because both give the same result, except that in one the lines are coloured differently.<br><br>
-* **plotAnalemma.py**<br>
- Yala
+* **plotAnalemma.py**<br><br>
+ 
  
 ## How to Assemble in Affinity Designer
 
