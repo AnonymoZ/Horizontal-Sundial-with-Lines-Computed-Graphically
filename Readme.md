@@ -64,8 +64,7 @@ The exact reasoning behind the codes is in the pdf, but I gave you 3 scripts:
  Let it be a purely intellectual pursuit, for truth be told, the amount of technology put into this correction, we're far better off using a good old digital watch!<br><br>
  Please note! You will use **plotLongitudinalCorrection.py** *instead* of **plotDial.py**. Because both give the same result, except that in one the lines are coloured differently.<br><br>
 * **plot - Analemma.py**<br><br>
- 
- 
+ The path the tip of the shadow will take during any day. These curves will have to be *carefully* placed on the Dial. This script only gives the curves, but using clever geometry, we will know exactly how to place 'em.<br><br> 
 ## How to Assemble in Affinity Designer
 
 Follow book instructions for your ware, but I use [Affinity Designer](https://affinity.serif.com/en-us/designer/).
