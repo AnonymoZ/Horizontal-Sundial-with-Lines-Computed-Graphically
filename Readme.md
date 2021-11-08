@@ -70,7 +70,7 @@ The exact reasoning behind the codes is in the pdf, but I gave you 3 scripts:
 Follow book instructions for your ware, but I use [Affinity Designer](https://affinity.serif.com/en-us/designer/).<br><br>
 How you place the curves on the Dial face makes use of this **Principle**. Of all the curves in the Analemma one is a straight line.<br><br>
 We know the distance of this straight line from our Sundial's _Point of Convergence_. Which is the horizontal line on our Dial face where all hour lines converge.<br><br>
-Code **plotAnalemma.py** even outputs the distance in Terminal. I used the formula featured prominently at the top of the code in **plotAnalemma.py**:<br><br>
+Code **plotAnalemma.py** even outputs the distance in Terminal. I used the formula featured prominently at the top of the Analemma's code:<br><br>
 <code>The Distance of the Equinox line from Horizontal through Origin is 0.05568962772057622 metres.</code>
 
 
