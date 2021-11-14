@@ -76,3 +76,4 @@ Code **plotAnalemma.py** even outputs the distance in Terminal. I used the formu
 
 ## What to Change in the Scripts for _Your_ Project
 
+You can find beautiful colours for your project at [Coolors.co](https://coolors.co/palettes)! But we hope the colours that we chose were already beautiful enough! 😇
