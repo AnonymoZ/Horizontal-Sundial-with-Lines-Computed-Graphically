@@ -5,7 +5,7 @@ Misse told us to build a Sundial for *Introduction to Astrophysics*, with no pri
 Keep in mind these facts:
 1. You need to design your Sundial according to your _Latitude_. Therefore, you can't just copy and paste mine!
 2. Your Gnomon (the _triangle_!) needs to be constructed with _special_ angles. More on that later.
-3. Your Sundial can also indicate the _day of the year_ (heck!). For that we need to include curves called _Analemma_.
+3. Your Sundial can also indicate the _day of the year_ (heck!). For that we need to include curves called the _Analemma_.
 
 Here's the finished product. There's more in our pdf (link)!
 
