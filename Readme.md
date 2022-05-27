@@ -82,6 +82,10 @@ There are two horizontal lines your DialFace.<br>
 These two line pairs are the same.<br><br>
 And by simply aligning the two pairs, we'd have resized each graphic to fit onto the other.
 
+### In practice..
+
+In practice, ..
+
 ## What to Change in the Scripts for _Your_ Project
 
 You can find beautiful colours for your project at [Coolors.co](https://coolors.co/palettes)! But we hope the colours that we chose were already beautiful enough! 😇
