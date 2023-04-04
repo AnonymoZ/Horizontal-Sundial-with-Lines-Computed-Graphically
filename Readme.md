@@ -47,7 +47,7 @@ And add a rectangle to know how to place Gnomon, and a faint black vertical line
 
 ## Which Script Does What
 
-The exact reasoning behind the codes is in the pdf, but I gave you 3 scripts:
+The exact reasoning behind the codes is in the [PDF](https://github.com/AnonymoZ/Horizontal-Sundial-with-Lines-Computed-Graphically/blob/main/Horizontal%20Sundial.pdf), but I gave you 3 scripts:
 * **plot - Dial.py**<br><br>
  This is straightforward. The script gives you the face of a Sundial. <br>
  Red lines denote *Hours*, Blue lines denote *Half-Hours* and Yellow lines *Quarter-Hours*.<br>
